@@ -13,7 +13,7 @@ La specifica di ciascun componente è descritto nel testo del progetto; i dettag
 Il sistema è stato testato su Ubuntu 16.04 e Windows 10, utilizza Java8 e la libreria esterna JSON-Simple (https://github.com/fangyidong/json-simple).
 
 ## Compilazione ed esecuzione
-`make`: compila i file java
+`make`: compila i file java \s\s
 `make server`: esegue un'istanza del server (MAX 1)
 `make client`: esegue un'istanza del client
 `make clean` : rimuove file temporanei e file class
