@@ -1,0 +1,7 @@
+{"nick":"Marco","password":"1","punteggio":100,"amici":["topolino","Paperino","Pippo","Filippo","Ciccio","Paperoga","Gastone"]}
+{"nick":"Gastone","password":"777","punteggio":-7,"amici":["Paperoga","Paperino","Marco"]}
+{"nick":"Topolino","password":"2","punteggio":18,"amici":["Marco","Paperino"]}
+{"nick":"Paperino","password":"3","punteggio":-41,"amici":["Marco","topolino","Ciccio","Gastone"]}
+{"nick":"Paperoga","password":"01","punteggio":-2,"amici":["Gastone","Marco"]}
+{"nick":"Pippo","password":"4","punteggio":7,"amici":["Marco","Ciccio"]}
+{"nick":"Pluto","password":"5","punteggio":0,"amici":[]}
